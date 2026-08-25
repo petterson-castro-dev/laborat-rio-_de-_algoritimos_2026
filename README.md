@@ -23,9 +23,11 @@
 
 ---
 
-## 📊 GitHub
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petterson-castro-dev&show_icons=true&theme=dark)
+## 🐍 Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/petterson-castro-dev/petterson-castro-dev/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
